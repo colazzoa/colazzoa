@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alessandro Colazzo
 - 👀 I’m interested in signal processing for telecommunications (5G NR, LTE, NB-IoT) and IoT
 - 🌱 I’m currently learning C++ and machine learning
-- 💞️ I’m looking to collaborate on machine learning applied to physical layer processing
+- 💞️ I’m looking to collaborate on machine learning applied to physical layer processing of wireless protocols
 - 📫 Reach me on www.alessandrocolazzo.eu (linkedin profile)
 
 <!---
